@@ -3,7 +3,7 @@ Built a GUI Application using Python and Tkinter for Converting Weight, Length, 
 
 ![Alt Text](https://media.tenor.com/jui7vY1hWFsAAAAC/johnny-test-converting.gif)
 
-# Project Explaination
+# Description
 
 The code is a GUI-based weight, area, length and temperature conversion tool. It imports various modules such as Tkinter, ttk, PIL, etc. to enable GUI development.
 
